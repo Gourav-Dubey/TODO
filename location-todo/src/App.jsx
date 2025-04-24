@@ -89,13 +89,7 @@ function App() {
       <h1 className="text-3xl font-bold text-center mb-6 text-transparent bg-clip-text bg-gradient-to-r from-pink-400 to-blue-400">
         📌 Location Based To-Do List
       </h1>
- {/* Header with Login Button */}
- <div className="flex justify-between items-center mb-6">
-      
-      <button className="bg-blue-600 hover:bg-blue-700 px-4 py-2 rounded-lg shadow text-white">
-        🔐 User Login
-      </button>
-    </div>
+ 
       <div className="flex flex-wrap gap-3 justify-center mb-6">
         <input
           type="text"
